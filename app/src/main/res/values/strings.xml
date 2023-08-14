@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Step Detector</string>
+
+    <string name="text_error_unavailable_accel_sensor">Accelerometer sensor is unavailable</string>
+    <string name="text_error_unavailable_step_detector_sensor">Step Detector sensor is unavailable</string>
+    <string name="text_steps_using_accel_sensor">STEPS (use ACCELEROMETER): %1$d</string>
+    <string name="text_steps_using_step_detector_sensor">STEPS (use STEP_DETECTOR): %1$d</string>
+    <string name="button_reset_steps">Reset Steps</string>
+</resources>
